@@ -1,0 +1,13 @@
+[project]
+name = "captcha"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "insightface>=1.0.1",
+    "onnxruntime>=1.26.0",
+    "opencv-python>=4.13.0.92",
+    "requests>=2.34.2",
+]
